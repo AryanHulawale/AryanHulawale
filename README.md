@@ -40,7 +40,7 @@ Exploring: Next.js · Tailwind CSS · TypeScript · Cloud Deployment
 ---
 
 ### Pinned Projects
-### Pinned Projects
+
 | Project                   | Description                                                                                                     | Link       |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------- |
 | **PingUp**                | Social media platform built with the MERN stack, featuring posts, likes, and profile management                | [Repo](https://github.com/AryanHulawale/PingUp-SocialMedia) |

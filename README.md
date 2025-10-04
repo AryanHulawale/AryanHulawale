@@ -54,8 +54,9 @@ Exploring: Next.js · Tailwind CSS · TypeScript · Cloud Deployment
 ### GitHub Stats
 
 ![AryanHulawale's Stats](https://github-readme-stats.vercel.app/api?username=AryanHulawale&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
-![AryanHulawale's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AryanHulawale&theme=gruvbox&hide_border=false)
 ![AryanHulawale's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanHulawale&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
+![AryanHulawale's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AryanHulawale&theme=gruvbox&hide_border=false)
+
 
 ---
 

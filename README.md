@@ -1,21 +1,76 @@
-# 💫 About Me:
-Hey there! I’m Aryan, a passionate web developer with expertise in creating dynamic and scalable applications using the MERN stack. 😄💻 Turning ideas into reality is my thing, and I’m always ready to tackle new challenges in the world of web development. Beyond coding, you’ll find me exploring cutting-edge tech, contributing to open-source projects, or leveling up my skills with something new. 🚀 Let’s connect and build something amazing together!
+# Aryan Hulawale — MERN Stack Developer
+
+---
+
+### About Me
+I’m Aryan Hulawale, a passionate Full-Stack Web Developer specializing in the MERN stack. I enjoy turning ideas into production-ready web apps with clean code, scalable architecture, and modern UI/UX. Over time, I’ve built dynamic projects ranging from social media platforms to financial management systems and am continuously exploring new technologies to expand my skill set.
+
+Focus Areas: Full-Stack Web Apps · Scalable Architectures · Modern UI/UX
+Current Project: PingUp — a social media web app built on MERN
+Exploring: Next.js · Tailwind CSS · TypeScript · Cloud Deployment
+
+**Focus Areas:** Full-Stack Web Apps · Scalable Architectures · Modern UI/UX
+**Current Project:** **PingUp** — a social media web app built on MERN
+**Exploring:**Next.js · Tailwind CSS · TypeScript · Cloud Deployment
+
+---
+
+### Tech Stack
+
+| Category   | Technologies                                                   |
+| ---------- | -------------------------------------------------------------- |
+| Languages  | JavaScript · TypeScript · Java · Python                        |
+| Frontend   | React.js · Next.js · Tailwind CSS · Bootstrap                  |
+| Backend    | Node.js · Express.js                                           |
+| Database   | MongoDB · Mongoose                                             |
+| Tooling    | Git · GitHub · Postman · VS Code · npm                         |
+
+---
+
+### What I’m Building (now)
+
+* **AI Interview Prep** — a web app for AI and coding interview preparation
+
+    * Practice questions with solutions
+    * Track progress and performance
+    * Categorized topics for focused learning
+    * Responsive modern UI with Tailwind
+    * Future: AI-powered hints, mock interviews, and real-time coding challenges
+
+---
+
+### Pinned Projects
+### Pinned Projects
+| Project                   | Description                                                                                                     | Link       |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------- |
+| **PingUp**                | Social media platform built with the MERN stack, featuring posts, likes, and profile management                | [Repo](https://github.com/AryanHulawale/PingUp-SocialMedia) |
+| **Gemini Clone**          | A React-based AI chat application inspired by Google Gemini, with dynamic chat interactions                     | [Repo](https://github.com/AryanHulawale/Gemini-Clone) |
+| **AI Interview Prep**     | Web application for preparing AI and coding interviews with practice questions, solutions, and progress tracking | [Repo](https://github.com/AryanHulawale/AI-Interview-Preparation) |
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_hulawale) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AryanHulawale) 
+---
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AryanHulawale&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AryanHulawale&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanHulawale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### GitHub Stats
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AryanHulawale&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![AryanHulawale's Stats](https://github-readme-stats.vercel.app/api?username=AryanHulawale&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+![AryanHulawale's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AryanHulawale&theme=gruvbox&hide_border=false)
+![AryanHulawale's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanHulawale&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Connect with Me
+
+* LinkedIn: [https://www.linkedin.com/in/aryan-hulawale/](https://www.linkedin.com/in/aryan-hulawale/)  
+* GitHub: [https://github.com/AryanHulawale](https://github.com/AryanHulawale)  
+* Email: [aryanhulawale1703@gmail.com](mailto:aryanhulawale1703@gmail.com)  
+
+---
+
+### Support  
+
+Open to **collaborations, freelance projects, and open-source contributions**.  
+
+---
+
+Crafted for developers, creators, and innovators.  

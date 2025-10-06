@@ -48,7 +48,7 @@ Exploring: Next.js · Tailwind CSS · TypeScript · Cloud Deployment
 | **AI Interview Prep**     | Web application for preparing AI and coding interviews with practice questions, solutions, and progress tracking | [Repo](https://github.com/AryanHulawale/AI-Interview-Preparation) |
 
 
----
+
 ---
 
 ### GitHub Stats

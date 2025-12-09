@@ -20,7 +20,7 @@ Exploring: Next.js · Tailwind CSS · TypeScript · Cloud Deployment
 | Category   | Technologies                                                   |
 | ---------- | -------------------------------------------------------------- |
 | Languages  | JavaScript · TypeScript · Java · Python                        |
-| Frontend   | React.js · Next.js · Tailwind CSS · Bootstrap                  |
+| Frontend   | React.js · Next.js · Electron.js · Tailwind CSS                |
 | Backend    | Node.js · Express.js                                           |
 | Database   | MongoDB · Mongoose                                             |
 | Tooling    | Git · GitHub · Postman · VS Code · npm                         |

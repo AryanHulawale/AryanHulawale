@@ -64,7 +64,7 @@ Exploring: Next.js · Tailwind CSS · TypeScript · Cloud Deployment
 
 * LinkedIn: [https://www.linkedin.com/in/aryan-hulawale/](https://www.linkedin.com/in/aryan-hulawale/)  
 * GitHub: [https://github.com/AryanHulawale](https://github.com/AryanHulawale)  
-* Email: [aryanhulawale1703@gmail.com](mailto:aryanhulawale1703@gmail.com)  
+* Email: [aryanhulawale2020@gmail.com](mailto:aryanhulawale2020@gmail.com)  
 
 ---
 

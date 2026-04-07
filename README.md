@@ -22,7 +22,7 @@ Exploring: Next.js · Tailwind CSS · TypeScript · Cloud Deployment
 | Languages  | JavaScript · TypeScript · Java · Python                        |
 | Frontend   | React.js · Next.js · Electron.js · Tailwind CSS                |
 | Backend    | Node.js · Express.js                                           |
-| Database   | MongoDB · Mongoose  Postgres · Sequelize                       |
+| Database   | MongoDB · Mongoose · Postgres · Sequelize                      |
 | Tooling    | Git · Devops · Postman · VS Code · npm                         |
 
 ---

@@ -1,17 +1,13 @@
-# Aryan Hulawale — MERN Stack Developer
+# Aryan Hulawale — Full Stack Developer
 
 ---
 
 ### About Me
-I’m Aryan Hulawale, a passionate Full-Stack Web Developer specializing in the MERN stack. I enjoy turning ideas into production-ready web apps with clean code, scalable architecture, and modern UI/UX. Over time, I’ve built dynamic projects ranging from Social Media platforms to AI Interview Preperation systems and am continuously exploring new technologies to expand my skill set.
+I’m Aryan Hulawale, a passionate Full-Stack Developer with a strong foundation in the MERN stack, currently expanding my expertise into **DevOps** and **AI/ML**. I enjoy turning complex ideas into production-ready, scalable applications by integrating intelligent capabilities and robust deployment pipelines into full-stack architectures. Over time, I’ve built dynamic projects ranging from Social Media platforms to AI Interview Preparation systems, and I am continuously exploring modern infrastructure and Generative AI to push my engineering boundaries.
 
-Focus Areas: Full-Stack Web Apps · Scalable Architectures · Modern UI/UX
-Current Project: PingUp — a social media web app built on MERN
-Exploring: Next.js · Tailwind CSS · TypeScript · Cloud Deployment
-
-**Focus Areas:** Full-Stack Web Apps · Scalable Architectures · Modern UI/UX
-**Current Project:** **PingUp** — a social media web app built on MERN
-**Exploring:**Next.js · Tailwind CSS · TypeScript · Cloud Deployment
+**Focus Areas:** Full-Stack Web Apps · AI/ML Integration · DevOps & CI/CD Pipelines · Scalable Architectures  
+**Current Project:** **PingUp** — a social media web app built on MERN  
+**Exploring:** Generative AI · Machine Learning · Docker & Kubernetes · Cloud Deployment (AWS/GCP) · CI/CD Automation
 
 ---
 

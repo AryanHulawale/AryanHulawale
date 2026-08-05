@@ -15,11 +15,11 @@ I’m Aryan Hulawale, a passionate Full-Stack Developer with a strong foundation
 
 | Category   | Technologies                                                   |
 | ---------- | -------------------------------------------------------------- |
-| Languages  | JavaScript · TypeScript · Java · Python                        |
+| Languages  | JavaScript · TypeScript · Java · Python · C++                  |
 | Frontend   | React.js · Next.js · Electron.js · Tailwind CSS                |
 | Backend    | Node.js · Express.js                                           |
 | Database   | MongoDB · Mongoose · Postgres · Sequelize                      |
-| Tooling    | Git · Devops · Postman · VS Code · npm                         |
+| Tooling    | Devops · Arcjet · Helmet · Winston · Morgan                    |
 
 ---
 

@@ -1,5 +1,6 @@
-# Aryan Hulawale — Full Stack Developer ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AryanHulawale)
+# Aryan Hulawale — Full Stack Developer 
 ---
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AryanHulawale)
 
 ### About Me
 I’m Aryan Hulawale, a passionate Full-Stack Developer with a strong foundation in the MERN stack, currently expanding my expertise into **DevOps** and **AI/ML**. I enjoy turning complex ideas into production-ready, scalable applications by integrating intelligent capabilities and robust deployment pipelines into full-stack architectures. Over time, I’ve built dynamic projects ranging from Social Media platforms to AI Interview Preparation systems, and I am continuously exploring modern infrastructure and Generative AI to push my engineering boundaries.

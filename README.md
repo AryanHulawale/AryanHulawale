@@ -1,4 +1,4 @@
-# Aryan Hulawale — Full Stack Developer [Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AryanHulawale)
+# Aryan Hulawale — Full Stack Developer ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AryanHulawale)
 ---
 
 ### About Me
